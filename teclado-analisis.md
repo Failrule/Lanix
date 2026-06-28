@@ -6,6 +6,8 @@ Equipo: Lanix Neuron V (Clevo 2012), Arch Linux, kernel 7.0.9, Hyprland (Wayland
 Presupuesto: $250–$400 USD. Requisito ergonómico prioritario: **split mecánico**.
 Linux compatible (software). Hardware lo resuelve el usuario.
 
+Nota importante para ALGUIEN por ahí. Estoy intentando buscar una opción de teclado dividido porque ALGUIEN no tiene existencias, o por lo menos eso veo en el internet.
+
 ---
 
 ## Compatibilidad Software en Linux
